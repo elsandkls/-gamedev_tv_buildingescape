@@ -16,3 +16,4 @@ StarterContent/*
 *VC.db
 *.bin
 *.db
+.vs/*
