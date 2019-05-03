@@ -7,9 +7,7 @@ Content/*
 */DerivedDataCache
 DerivedDataCache/*
 */Intermediate
-Intermediate/*
-*/Saved
-Saved/*
+Intermediate/* 
 */StarterContent
 StarterContent/*
 *.dll
