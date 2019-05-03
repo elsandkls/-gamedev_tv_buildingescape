@@ -2,6 +2,8 @@
 
 
 #include "PositionReport.h" 
+#include "BuildingEscape.h" 
+#include "GameFramework/Actor.h" 
 
 // Sets default values for this component's properties
 UPositionReport::UPositionReport()
@@ -19,6 +21,9 @@ void UPositionReport::BeginPlay()
 {
 	Super::BeginPlay();  // Super, means do all the things in the inheritance tree.
 
+	FString ObjectName = GetOwner()->GetName();
+	FString ObjectPosition = GetOwner()->GetTransform().GetLocation().ToString();
+	UE_LOG(LogTemp, Warning, TEXT(" %s is at %s"), *ObjectName, *ObjectPosition);
 	// ... runs once at begining of the game
 	
 }
