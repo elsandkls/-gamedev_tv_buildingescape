@@ -10,8 +10,17 @@ DerivedDataCache/*
 Intermediate/* 
 */StarterContent
 StarterContent/*
+Saved/*/*/*/*/StarterContent/*
+Saved/*/*/*/*/EditorMaterials/*
+Saved/*/*/*/*/EditorResources/*
+Saved/*/*/*/*/Plugins/*
+Saved/*/*/*/Content/*
+Saved/EditorCooked/*/*/*/*
+Saved/StagedBuilds/*/*/*/*
+Saved/Config/CrashReportClient/*
 *.dll
 *VC.db
 *.bin
 *.db
+*.uasset
 .vs/*

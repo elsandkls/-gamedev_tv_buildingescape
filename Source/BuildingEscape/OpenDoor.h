@@ -16,19 +16,26 @@ class BUILDINGESCAPE_API UOpenDoor : public UActorComponent
 public:	
 	// Sets default values for this component's properties
 	UOpenDoor();	
+	void OpenDoor();
+	void CloseDoor();
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
-
-
+ 
 protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;
 
 private:
+	// Macros!
+	UPROPERTY(VisibleAnywhere)
+	float OpenAngle = -90.0f; // Note to self, have to restart unrealEditor to see these changes.
 
 	UPROPERTY(VisibleAnywhere)
-	float OpenAngle = -90.0f;
+	float CloseAngle = 0.0f; // Note to self, have to restart unrealEditor to see these changes.
+
 	UPROPERTY(EditAnywhere)
 	ATriggerVolume* PressurePlate;
-		
+
+	UPROPERTY(EditAnywhere)
+	AActor* ActorThatOpensTheDoor; // remember pawn inherits from actor
 };
