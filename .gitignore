@@ -23,4 +23,6 @@ Saved/Config/CrashReportClient/*
 *.bin
 *.db
 *.uasset
+*/Backup/*
+Backup/*
 .vs/*

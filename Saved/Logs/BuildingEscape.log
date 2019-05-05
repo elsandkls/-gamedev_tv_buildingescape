@@ -836,3 +836,941 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.04-20.45.16:719][617]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.727ms to complete.
 [2019.05.04-20.46.47:693][483]LogSlate: Window 'Message Log' being destroyed
 [2019.05.04-20.46.47:695][483]LogSlate: Window 'Message Log' being destroyed
+[2019.05.04-20.55.02:268][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.05.04-20.55.02:421][322]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap_Auto1F3EFFCAC4CC6E65AF16424AE0A9C873E.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/Autosaves/Game/MyNewMap_Auto1.umap'
+[2019.05.04-20.55.02:424][322]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.178
+[2019.05.04-20.55.02:424][322]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.178
+[2019.05.04-21.05.02:832][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.05.04-21.05.02:832][217]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.022
+[2019.05.04-21.15.03:479][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.05.04-21.15.03:479][ 10]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.020
+[2019.05.04-21.25.04:160][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.05.04-21.25.04:160][800]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.020
+[2019.05.04-21.35.04:747][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.05.04-21.35.04:747][590]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.021
+[2019.05.04-21.45.05:194][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.05.04-21.45.05:195][379]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.020
+[2019.05.04-21.55.05:707][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.05.04-21.55.05:708][169]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.020
+[2019.05.04-22.05.06:338][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.05.04-22.05.06:338][959]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.020
+[2019.05.04-22.15.06:818][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.05.04-22.15.06:819][749]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.020
+[2019.05.04-22.25.07:484][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.05.04-22.25.07:485][740]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.020
+[2019.05.04-22.35.08:089][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.05.04-22.35.08:089][529]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.025
+[2019.05.04-22.45.08:818][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.05.04-22.45.08:818][313]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.023
+[2019.05.04-22.55.09:465][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.05.04-22.55.09:466][ 96]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.023
+[2019.05.04-23.05.10:017][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.05.04-23.05.10:017][879]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.026
+[2019.05.04-23.15.10:655][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.05.04-23.15.10:655][666]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.028
+[2019.05.04-23.25.11:136][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.05.04-23.25.11:137][457]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.029
+[2019.05.04-23.35.11:701][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2019.05.04-23.35.11:701][250]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.029
+[2019.05.04-23.45.12:265][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.05.04-23.45.12:266][ 42]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.027
+[2019.05.04-23.55.12:898][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.05.04-23.55.12:898][837]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.026
+[2019.05.05-00.05.13:581][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.05.05-00.05.13:581][632]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.027
+[2019.05.05-00.15.14:198][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2019.05.05-00.15.14:198][428]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.028
+[2019.05.05-00.25.14:667][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.05.05-00.25.14:667][225]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.030
+[2019.05.05-00.35.15:098][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2019.05.05-00.35.15:098][ 13]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.029
+[2019.05.05-00.45.15:632][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.05.05-00.45.15:632][809]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.029
+[2019.05.05-00.55.16:279][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2019.05.05-00.55.16:280][594]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.027
+[2019.05.05-01.05.16:797][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2019.05.05-01.05.16:798][384]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.029
+[2019.05.05-01.15.17:212][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.05.05-01.15.17:213][174]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.029
+[2019.05.05-01.25.17:795][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.05.05-01.25.17:795][963]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.027
+[2019.05.05-01.35.18:377][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.05.05-01.35.18:377][753]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.028
+[2019.05.05-01.45.19:030][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2019.05.05-01.45.19:031][547]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.031
+[2019.05.05-01.55.19:643][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.05.05-01.55.19:644][335]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.029
+[2019.05.05-02.05.20:178][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.05.05-02.05.20:178][128]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.029
+[2019.05.05-02.15.20:828][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.05.05-02.15.20:828][919]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.030
+[2019.05.05-02.25.21:225][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2019.05.05-02.25.21:225][710]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.028
+[2019.05.05-02.35.21:890][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.05.05-02.35.21:891][501]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.029
+[2019.05.05-02.45.22:434][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.05.05-02.45.22:434][294]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.023
+[2019.05.05-02.55.22:924][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.05.05-02.55.22:924][ 85]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.030
+[2019.05.05-03.05.23:455][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.05.05-03.05.23:455][874]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.028
+[2019.05.05-03.15.24:053][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.05.05-03.15.24:053][666]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.027
+[2019.05.05-03.25.24:704][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.05.05-03.25.24:704][462]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.030
+[2019.05.05-03.35.25:137][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.05.05-03.35.25:138][254]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.030
+[2019.05.05-03.45.25:704][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.05.05-03.45.25:704][ 49]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.030
+[2019.05.05-03.55.26:251][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2019.05.05-03.55.26:252][846]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.029
+[2019.05.05-04.05.26:864][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.05.05-04.05.26:864][643]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.040
+[2019.05.05-04.15.27:335][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.05.05-04.15.27:336][438]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.029
+[2019.05.05-04.25.27:896][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.05.05-04.25.27:897][227]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.026
+[2019.05.05-04.35.28:325][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.05.05-04.35.28:325][ 18]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.022
+[2019.05.05-04.45.28:774][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.05.05-04.45.28:774][809]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.022
+[2019.05.05-04.55.29:455][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.05.05-04.55.29:455][601]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.022
+[2019.05.05-05.05.29:920][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.05.05-05.05.29:921][392]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.022
+[2019.05.05-05.15.30:654][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.05.05-05.15.30:654][176]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.022
+[2019.05.05-05.25.31:038][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.05.05-05.25.31:038][965]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.022
+[2019.05.05-05.35.31:470][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.05.05-05.35.31:470][757]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.022
+[2019.05.05-05.45.32:019][549]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.05.05-05.45.32:019][549]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.020
+[2019.05.05-05.55.32:485][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.05.05-05.55.32:485][340]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.021
+[2019.05.05-06.05.33:058][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.05.05-06.05.33:058][873]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.024
+[2019.05.05-06.15.33:631][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2019.05.05-06.15.33:632][666]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.021
+[2019.05.05-06.25.34:036][458]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.05.05-06.25.34:036][458]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.024
+[2019.05.05-06.29.02:570][489]LogEditorViewport: Clicking Background
+[2019.05.05-06.29.13:269][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-06.29.13:381][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.05-06.29.13:406][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.05.05-06.29.13:554][763]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMapAC26BD3043D7D547A5FBF7A1FA2C7A2E.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap'
+[2019.05.05-06.29.13:584][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap_BuiltData" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset" SILENT=true
+[2019.05.05-06.29.14:203][763]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap_BuiltDataAF62DE3D443137C26E6B34BC0F53390D.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset'
+[2019.05.05-06.39.13:508][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.05.05-06.39.13:664][842]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap_Auto24338CF28414E8BB66B4683AE8ADCEE41.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/Autosaves/Game/MyNewMap_Auto2.umap'
+[2019.05.05-06.39.13:669][842]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.184
+[2019.05.05-06.39.13:669][842]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.184
+[2019.05.05-06.59.43:596][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2019.05.05-06.59.45:857][523]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.05-07.00.13:526][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.01.50:129][266]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Door)
+[2019.05.05-07.01.50:154][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.05-07.02.39:981][376]LogEditorViewport: Clicking Background
+[2019.05.05-07.02.41:034][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2019.05.05-07.02.49:797][229]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Door)
+[2019.05.05-07.02.49:821][229]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.05-07.02.51:601][432]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.05.05-07.02.51:606][432]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door
+[2019.05.05-07.02.53:108][432]LogRenderer: Reallocating scene render targets to support 916x604 Format 10 NumSamples 1 (Frame:1).
+[2019.05.05-07.02.53:108][432]LogSlate: Took 0.003947 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.05-07.05.36:581][651]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.05-07.05.39:398][834]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.05-07.06.15:982][370]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.05-07.06.16:024][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.05.05-07.06.16:024][370]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MyNewMap' took 0.025
+[2019.05.05-07.06.16:026][370]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Props/SM_Door] ([1] browsable assets)...
+[2019.05.05-07.06.16:083][370]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door]
+[2019.05.05-07.06.16:083][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Props/SM_Door]
+[2019.05.05-07.06.16:208][370]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/SM_Door_Auto3C544F28A4DC4C244A4F59CA9B7DC6FBF.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/Autosaves/Game/StarterContent/Props/SM_Door_Auto3.uasset'
+[2019.05.05-07.06.16:209][370]LogFileHelpers: Auto-saving content packages took 0.184
+[2019.05.05-07.06.42:630][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.06.42:708][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Props/SM_Door" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/StarterContent/Props/SM_Door.uasset" SILENT=true
+[2019.05.05-07.06.42:726][221]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/SM_DoorAFD5CFC24DB33EC05F5355854BC23DA5.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/StarterContent/Props/SM_Door.uasset'
+[2019.05.05-07.06.47:589][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.06.47:675][566]LogSlate: Window 'SM_Door' being destroyed
+[2019.05.05-07.06.47:690][566]LogSlate: Window 'SM_Door' being destroyed
+[2019.05.05-07.06.52:556][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_C3)
+[2019.05.05-07.06.53:956][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2019.05.05-07.06.58:849][860]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Door2)
+[2019.05.05-07.06.58:874][860]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.05-07.07.00:293][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.05.05-07.07.00:298][ 15]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door
+[2019.05.05-07.07.05:580][333]LogSlate: Window 'SM_Door' being destroyed
+[2019.05.05-07.07.05:596][333]LogSlate: Window 'SM_Door' being destroyed
+[2019.05.05-07.07.09:331][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_C3)
+[2019.05.05-07.07.27:190][373]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (PressurePlate)
+[2019.05.05-07.07.30:038][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.08.23:525][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2019.05.05-07.08.26:870][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.08.26:960][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.05-07.08.26:986][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2019.05.05-07.08.27:135][480]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMapA8E7BB0E4FE015E257EF4D9EF015939A.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap'
+[2019.05.05-07.08.27:162][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap_BuiltData" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset" SILENT=true
+[2019.05.05-07.08.27:406][480]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap_BuiltData03C84B664F858DD4774AB08E06F0B155.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset'
+[2019.05.05-07.08.31:595][977]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.08.36:697][506]Cmd: DUPLICATE
+[2019.05.05-07.08.36:698][506]Cmd: ACTOR DUPLICATE
+[2019.05.05-07.08.57:675][987]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.05-07.09.07:440][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.09.19:675][432]Cmd: DUPLICATE
+[2019.05.05-07.09.19:675][432]Cmd: ACTOR DUPLICATE
+[2019.05.05-07.09.31:262][802]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.05-07.09.47:004][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_B4)
+[2019.05.05-07.09.48:402][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door4)
+[2019.05.05-07.09.49:240][925]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Door4)
+[2019.05.05-07.09.49:263][925]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.05-07.09.52:259][224]Cmd: DUPLICATE
+[2019.05.05-07.09.52:259][224]Cmd: ACTOR DUPLICATE
+[2019.05.05-07.09.55:644][622]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.05-07.10.01:309][280]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.05-07.10.07:144][972]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Door5)
+[2019.05.05-07.10.07:168][972]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.05-07.10.13:526][578]Cmd: DUPLICATE
+[2019.05.05-07.10.13:527][578]Cmd: ACTOR DUPLICATE
+[2019.05.05-07.10.17:091][996]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.05-07.10.23:831][788]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.05-07.10.30:332][560]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.10.30:446][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.05-07.10.30:470][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2019.05.05-07.10.30:613][572]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap4C4FC53F4C812B8251DD6184EF660DB3.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap'
+[2019.05.05-07.10.30:642][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap_BuiltData" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset" SILENT=true
+[2019.05.05-07.10.30:876][572]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap_BuiltDataB2B50BFA47333A04FD371E969BDBF27E.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset'
+[2019.05.05-07.10.44:760][221]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Door6)
+[2019.05.05-07.10.44:783][221]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.05-07.10.46:605][400]Cmd: DUPLICATE
+[2019.05.05-07.10.46:605][400]Cmd: ACTOR DUPLICATE
+[2019.05.05-07.10.51:913][ 26]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.05-07.11.09:092][ 62]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Door7)
+[2019.05.05-07.11.09:118][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.05-07.11.12:473][343]Cmd: DUPLICATE
+[2019.05.05-07.11.12:473][343]Cmd: ACTOR DUPLICATE
+[2019.05.05-07.11.28:666][259]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.05-07.11.39:511][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_D1)
+[2019.05.05-07.11.44:791][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door8)
+[2019.05.05-07.11.47:349][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.11.52:730][980]Cmd: DUPLICATE
+[2019.05.05-07.11.52:730][980]Cmd: ACTOR DUPLICATE
+[2019.05.05-07.11.58:500][661]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Door9)
+[2019.05.05-07.11.58:523][661]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.05-07.12.16:034][664]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.05-07.12.18:802][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door9)
+[2019.05.05-07.12.23:374][535]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.05-07.12.40:087][512]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Door9)
+[2019.05.05-07.12.40:110][512]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.05-07.12.45:274][993]Cmd: DUPLICATE
+[2019.05.05-07.12.45:274][993]Cmd: ACTOR DUPLICATE
+[2019.05.05-07.13.03:349][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door10)
+[2019.05.05-07.13.06:158][430]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Door10)
+[2019.05.05-07.13.06:182][430]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.05-07.13.12:565][929]Cmd: DUPLICATE
+[2019.05.05-07.13.12:565][929]Cmd: ACTOR DUPLICATE
+[2019.05.05-07.13.31:345][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_C4)
+[2019.05.05-07.13.35:247][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DoorFrame9)
+[2019.05.05-07.13.36:609][558]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.05-07.13.45:516][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_D4)
+[2019.05.05-07.13.58:353][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.14.14:613][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door8)
+[2019.05.05-07.14.18:487][457]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Door8)
+[2019.05.05-07.14.18:513][457]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.05-07.14.23:878][915]Cmd: DUPLICATE
+[2019.05.05-07.14.23:878][915]Cmd: ACTOR DUPLICATE
+[2019.05.05-07.14.29:814][615]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.05-07.14.39:270][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door12)
+[2019.05.05-07.14.40:582][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door12)
+[2019.05.05-07.14.42:700][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door12)
+[2019.05.05-07.14.43:384][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door12)
+[2019.05.05-07.14.45:741][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.14.45:837][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.05-07.14.45:861][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2019.05.05-07.14.46:015][478]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap43BFC87F41AE4DC8D6F360940773D313.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap'
+[2019.05.05-07.14.46:044][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap_BuiltData" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset" SILENT=true
+[2019.05.05-07.14.46:292][478]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap_BuiltDataE312FCFB41EDF23CB3A17BB4E5D3106F.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset'
+[2019.05.05-07.14.47:181][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door12)
+[2019.05.05-07.14.47:870][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door12)
+[2019.05.05-07.14.57:189][741]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door10)
+[2019.05.05-07.15.01:869][289]Cmd: DELETE
+[2019.05.05-07.15.01:869][289]Cmd: ACTOR DELETE
+[2019.05.05-07.15.01:983][289]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.05-07.15.02:005][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.05.05-07.15.02:005][289]LogEditorActor: Deleted 1 Actors (0.136 secs)
+[2019.05.05-07.15.05:373][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound)
+[2019.05.05-07.15.06:752][842]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.05-07.15.25:732][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x400_EA4)
+[2019.05.05-07.15.27:123][230]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.05-07.15.40:452][809]LogEditorViewport: Clicking Background
+[2019.05.05-07.15.42:429][ 39]LogEditorViewport: Clicking Background
+[2019.05.05-07.15.50:046][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_C4)
+[2019.05.05-07.15.52:528][225]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_D4)
+[2019.05.05-07.15.55:657][592]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.05-07.15.55:672][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.05-07.15.55:694][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.05.05-07.15.55:840][592]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap8CCF2E284BA7AFBDA5F1E1A7C420C9D6.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap'
+[2019.05.05-07.15.55:866][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap_BuiltData" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset" SILENT=true
+[2019.05.05-07.15.56:105][592]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap_BuiltData2384D3C546C7A4BC9848D2B489E018FA.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset'
+[2019.05.05-07.16.06:433][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_C4)
+[2019.05.05-07.16.15:977][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_D4)
+[2019.05.05-07.16.16:991][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_C4)
+[2019.05.05-07.16.17:781][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_D3)
+[2019.05.05-07.16.34:169][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_C4)
+[2019.05.05-07.16.38:868][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_C4)
+[2019.05.05-07.16.40:033][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_C4)
+[2019.05.05-07.16.52:032][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.16.59:041][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_D4)
+[2019.05.05-07.17.01:292][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_C4)
+[2019.05.05-07.17.03:543][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_D4)
+[2019.05.05-07.17.04:808][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_D3)
+[2019.05.05-07.17.06:507][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.17.06:608][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.05-07.17.06:635][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.05.05-07.17.06:782][877]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap4B382D6B4F052498C8C68DB74BCB24B5.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap'
+[2019.05.05-07.17.06:808][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap_BuiltData" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset" SILENT=true
+[2019.05.05-07.17.07:040][877]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap_BuiltDataD81345084A6342F63BA8DD93DE4B2891.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset'
+[2019.05.05-07.17.10:423][276]MapCheck: New page: Map Check
+[2019.05.05-07.17.10:439][276]Cmd: MAP REBUILD ALLVISIBLE
+[2019.05.05-07.17.10:440][276]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.05.05-07.17.10:477][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.05.05-07.17.10:506][276]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.17.10:514][276]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.17.10:521][276]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.05-07.17.10:521][276]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.05-07.17.10:521][276]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.17.10:528][276]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.17.10:536][276]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.17.10:543][276]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.17.10:550][276]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.17.10:557][276]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.17.10:565][276]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.17.10:572][276]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.17.10:581][276]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.05-07.17.10:581][276]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.05-07.17.10:581][276]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.17.10:589][276]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.17.12:628][276]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.05-07.17.12:628][276]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.05-07.17.12:628][276]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.05-07.17.12:628][276]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.05-07.17.12:628][276]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.05-07.17.12:628][276]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.05-07.17.12:628][276]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.05-07.17.12:628][276]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.05-07.17.12:628][276]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.05-07.17.12:628][276]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.05-07.17.12:628][276]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.05-07.17.12:628][276]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.05-07.17.12:628][276]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.05-07.17.12:629][276]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.05-07.17.12:629][276]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.05-07.17.12:629][276]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.05-07.17.12:629][276]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.05-07.17.12:629][276]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.05-07.17.12:629][276]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.05-07.17.12:629][276]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.05-07.17.12:629][276]TextureStreamingBuild: Display: Compiling optional shaders took 2.125 seconds.
+[2019.05.05-07.17.12:644][276]LogLevel: Display: Export Material TexCoord Scales took 0.015 seconds.
+[2019.05.05-07.17.12:672][276]TextureStreamingBuild: Display: Build Texture Streaming took 0.028 seconds.
+[2019.05.05-07.17.12:699][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.05.05-07.17.12:699][276]LightingResults: New page: Lighting Build - May 4, 2019, 11:17:12 PM
+[2019.05.05-07.17.12:706][276]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.05.05-07.17.12:712][276]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.05.05-07.17.12:713][276]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.05.05-07.17.12:714][276]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.05.05-07.17.12:714][276]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16064
+[2019.05.05-07.17.17:255][276]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.05.05-07.17.17:255][276]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.05.05-07.17.17:255][276]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.05.05-07.17.17:255][276]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.05.05-07.17.17:255][276]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.05.05-07.17.17:255][276]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.05.05-07.17.17:354][276]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.05.05-07.17.17:354][276]MapCheck: New page: MyNewMap - May 4, 2019, 11:17:17 PM
+[2019.05.05-07.17.17:354][276]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.05.05-07.17.17:355][276]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.919ms to complete.
+[2019.05.05-07.17.17:379][276]LogEditorBuildUtils: Build time 0:06
+[2019.05.05-07.17.17:432][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.05.05-07.17.25:532][834]Job is a success!
+[2019.05.05-07.17.25:630][835]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2019.05.05-07.17.25:630][835]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.05.05-07.17.25:630][835]LogVolumetricLightmapImport:      BrickData 100x5x5 = 0.1Mb
+[2019.05.05-07.17.25:630][835]LogVolumetricLightmapImport:      Bricks at Level
+[2019.05.05-07.17.25:630][835]LogVolumetricLightmapImport:          0: 5.0% covering 100.0% of volume
+[2019.05.05-07.17.25:630][835]LogVolumetricLightmapImport:          1: 5.0% covering 1.6% of volume
+[2019.05.05-07.17.25:630][835]LogVolumetricLightmapImport:          2: 90.0% covering 0.4% of volume
+[2019.05.05-07.17.26:721][835]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2019.05.05-07.17.26:721][835]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.05.05-07.17.26:721][835]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.05.05-07.17.26:722][835]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2019.05.05-07.17.26:722][835]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.05.05-07.17.26:722][835]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.05.05-07.17.26:722][835]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 256X128)
+[2019.05.05-07.17.26:722][835]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2019.05.05-07.17.26:722][835]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2019.05.05-07.17.26:904][835]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2019.05.05-07.17.26:913][835]LogStaticLightingSystem: MyNewMap_BuiltData storing lightmap data for 70 meshes in 5 LightmapResourceClusters (14.0 Meshes per cluster).
+[2019.05.05-07.17.26:938][835]Lightmass on ELS-SCHOOL-1: 8.80 sec total, 260 ms importing, 60 ms setup, 1.08 sec photons, 7.38 sec processing, 0 ms extra exporting [70/70 mappings]. Threads: 51.5 sec total, 34.2 sec processing.
+[2019.05.05-07.17.26:941][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.05.05-07.17.26:946][835]LogStaticLightingSystem: Illumination: 14.2 sec (976 ms encoding lightmaps, 177 ms encoding shadowmaps)
+[2019.05.05-07.17.26:946][835]LogStaticLightingSystem: Lightmap texture memory:  5.5 MB (5.5 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.05.05-07.17.26:947][835]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.05.05-07.17.27:264][835]DumpUnbuiltLightIteractions
+[2019.05.05-07.17.27:264][835]Lights with unbuilt interactions: 0
+[2019.05.05-07.17.27:264][835]
+[2019.05.05-07.17.27:264][835]Primitives with unbuilt interactions: 0
+[2019.05.05-07.17.27:313][836]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.05.05-07.17.27:314][836]MapCheck: New page: MyNewMap - May 4, 2019, 11:17:27 PM
+[2019.05.05-07.17.27:314][836]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.874ms to complete.
+[2019.05.05-07.17.36:783][909]LogSlate: Window 'Message Log' being destroyed
+[2019.05.05-07.17.36:785][909]LogSlate: Window 'Message Log' being destroyed
+[2019.05.05-07.17.41:557][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_C4)
+[2019.05.05-07.17.44:167][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_C4)
+[2019.05.05-07.17.50:722][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x400_ND3)
+[2019.05.05-07.17.52:024][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_C4)
+[2019.05.05-07.17.56:210][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x400_ND3)
+[2019.05.05-07.17.56:768][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_D4)
+[2019.05.05-07.18.00:244][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.18.00:325][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.05-07.18.00:347][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.05.05-07.18.00:492][654]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap1FF2135F44CC659E90333EB612DABCD0.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap'
+[2019.05.05-07.18.00:519][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap_BuiltData" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset" SILENT=true
+[2019.05.05-07.18.00:753][654]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap_BuiltData5BABFD5F41E6BF8D96C2C1BE60AEFEB2.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset'
+[2019.05.05-07.18.02:939][911]MapCheck: New page: Map Check
+[2019.05.05-07.18.02:957][911]Cmd: MAP REBUILD ALLVISIBLE
+[2019.05.05-07.18.02:958][911]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.05.05-07.18.02:995][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2019.05.05-07.18.03:024][911]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.18.03:032][911]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.18.03:040][911]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.05-07.18.03:040][911]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.05-07.18.03:040][911]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.18.03:048][911]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.05-07.18.03:048][911]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.05-07.18.03:048][911]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.18.03:057][911]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.18.03:068][911]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.18.03:078][911]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.18.03:088][911]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.18.03:097][911]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.18.03:105][911]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.18.03:113][911]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.18.03:121][911]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.18.04:340][911]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.05-07.18.04:340][911]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.05-07.18.04:340][911]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.05-07.18.04:340][911]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.05-07.18.04:340][911]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.05-07.18.04:340][911]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.05-07.18.04:340][911]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.05-07.18.04:340][911]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.05-07.18.04:340][911]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.05-07.18.04:340][911]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.05-07.18.04:340][911]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.05-07.18.04:341][911]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.05-07.18.04:341][911]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.05-07.18.04:341][911]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.05-07.18.04:341][911]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.05-07.18.04:341][911]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.05-07.18.04:341][911]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.05-07.18.04:341][911]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.05-07.18.04:341][911]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.05-07.18.04:341][911]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.05-07.18.04:341][911]TextureStreamingBuild: Display: Compiling optional shaders took 1.320 seconds.
+[2019.05.05-07.18.04:353][911]LogLevel: Display: Export Material TexCoord Scales took 0.012 seconds.
+[2019.05.05-07.18.04:380][911]TextureStreamingBuild: Display: Build Texture Streaming took 0.026 seconds.
+[2019.05.05-07.18.04:402][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.05.05-07.18.04:403][911]LightingResults: New page: Lighting Build - May 4, 2019, 11:18:04 PM
+[2019.05.05-07.18.04:409][911]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.05.05-07.18.04:411][911]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.05.05-07.18.04:411][911]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.05.05-07.18.04:413][911]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.05.05-07.18.04:413][911]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16064
+[2019.05.05-07.18.08:923][911]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.05.05-07.18.08:923][911]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.05.05-07.18.08:923][911]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.05.05-07.18.08:923][911]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.05.05-07.18.08:924][911]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.05.05-07.18.08:924][911]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.05.05-07.18.08:997][911]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.05.05-07.18.08:997][911]MapCheck: New page: MyNewMap - May 4, 2019, 11:18:08 PM
+[2019.05.05-07.18.08:997][911]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.05.05-07.18.08:999][911]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.116ms to complete.
+[2019.05.05-07.18.09:023][911]LogEditorBuildUtils: Build time 0:06
+[2019.05.05-07.18.09:075][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.05.05-07.18.16:747][363]Job is a success!
+[2019.05.05-07.18.16:829][365]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2019.05.05-07.18.16:829][365]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.05.05-07.18.16:829][365]LogVolumetricLightmapImport:      BrickData 100x5x5 = 0.1Mb
+[2019.05.05-07.18.16:829][365]LogVolumetricLightmapImport:      Bricks at Level
+[2019.05.05-07.18.16:829][365]LogVolumetricLightmapImport:          0: 5.0% covering 100.0% of volume
+[2019.05.05-07.18.16:829][365]LogVolumetricLightmapImport:          1: 5.0% covering 1.6% of volume
+[2019.05.05-07.18.16:829][365]LogVolumetricLightmapImport:          2: 90.0% covering 0.4% of volume
+[2019.05.05-07.18.17:830][365]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.05.05-07.18.17:830][365]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.05.05-07.18.17:831][365]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.05.05-07.18.17:831][365]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2019.05.05-07.18.17:831][365]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.05.05-07.18.17:831][365]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.05.05-07.18.17:831][365]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 256X128)
+[2019.05.05-07.18.17:831][365]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2019.05.05-07.18.17:831][365]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2019.05.05-07.18.18:007][365]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2019.05.05-07.18.18:016][365]LogStaticLightingSystem: MyNewMap_BuiltData storing lightmap data for 70 meshes in 5 LightmapResourceClusters (14.0 Meshes per cluster).
+[2019.05.05-07.18.18:038][365]Lightmass on ELS-SCHOOL-1: 8.41 sec total, 152 ms importing, 35 ms setup, 1.09 sec photons, 7.12 sec processing, 0 ms extra exporting [70/70 mappings]. Threads: 49.6 sec total, 33.6 sec processing.
+[2019.05.05-07.18.18:041][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.05.05-07.18.18:047][365]LogStaticLightingSystem: Illumination: 13.6 sec (910 ms encoding lightmaps, 170 ms encoding shadowmaps)
+[2019.05.05-07.18.18:047][365]LogStaticLightingSystem: Lightmap texture memory:  5.5 MB (5.5 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.05.05-07.18.18:047][365]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.05.05-07.18.18:933][365]DumpUnbuiltLightIteractions
+[2019.05.05-07.18.18:933][365]Lights with unbuilt interactions: 0
+[2019.05.05-07.18.18:933][365]
+[2019.05.05-07.18.18:933][365]Primitives with unbuilt interactions: 0
+[2019.05.05-07.18.18:979][366]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.05.05-07.18.18:979][366]MapCheck: New page: MyNewMap - May 4, 2019, 11:18:18 PM
+[2019.05.05-07.18.18:980][366]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.818ms to complete.
+[2019.05.05-07.18.22:512][751]LogSlate: Window 'Message Log' being destroyed
+[2019.05.05-07.18.22:514][751]LogSlate: Window 'Message Log' being destroyed
+[2019.05.05-07.18.29:998][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_D4)
+[2019.05.05-07.18.31:362][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_C4)
+[2019.05.05-07.18.36:909][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.18.42:628][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_D4)
+[2019.05.05-07.18.45:956][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.18.46:010][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.05-07.18.46:032][501]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.05.05-07.18.46:181][501]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap9B7685C24A841802F5ACC98D6794C2BC.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap'
+[2019.05.05-07.18.46:208][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap_BuiltData" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset" SILENT=true
+[2019.05.05-07.18.46:443][501]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap_BuiltData299CE1F140526446EC36D59BCB3A2EF7.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset'
+[2019.05.05-07.18.52:251][191]MapCheck: New page: Map Check
+[2019.05.05-07.18.52:275][191]Cmd: MAP REBUILD ALLVISIBLE
+[2019.05.05-07.18.52:275][191]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.05.05-07.18.52:311][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.05.05-07.18.52:338][191]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.18.52:345][191]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.18.52:353][191]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.05-07.18.52:353][191]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.05-07.18.52:353][191]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.18.52:361][191]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.05-07.18.52:361][191]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.05-07.18.52:361][191]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.18.52:369][191]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.18.52:378][191]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.18.52:389][191]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.18.52:399][191]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.18.52:409][191]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.18.52:416][191]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.18.52:425][191]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.18.52:433][191]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-07.18.53:656][191]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.05-07.18.53:656][191]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.05-07.18.53:656][191]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.05-07.18.53:656][191]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.05-07.18.53:656][191]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.05-07.18.53:656][191]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.05-07.18.53:656][191]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.05-07.18.53:656][191]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.05-07.18.53:656][191]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.05-07.18.53:656][191]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.05-07.18.53:656][191]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.05-07.18.53:657][191]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.05-07.18.53:657][191]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.05-07.18.53:657][191]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.05-07.18.53:657][191]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.05-07.18.53:657][191]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.05-07.18.53:657][191]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.05-07.18.53:657][191]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.05-07.18.53:657][191]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.05-07.18.53:657][191]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.05-07.18.53:657][191]TextureStreamingBuild: Display: Compiling optional shaders took 1.322 seconds.
+[2019.05.05-07.18.53:670][191]LogLevel: Display: Export Material TexCoord Scales took 0.013 seconds.
+[2019.05.05-07.18.53:697][191]TextureStreamingBuild: Display: Build Texture Streaming took 0.026 seconds.
+[2019.05.05-07.18.53:720][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.05.05-07.18.53:720][191]LightingResults: New page: Lighting Build - May 4, 2019, 11:18:53 PM
+[2019.05.05-07.18.53:727][191]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.05.05-07.18.53:729][191]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.05.05-07.18.53:729][191]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.05.05-07.18.53:730][191]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.05.05-07.18.53:730][191]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16064
+[2019.05.05-07.18.58:238][191]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.05.05-07.18.58:238][191]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.05.05-07.18.58:238][191]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.05.05-07.18.58:239][191]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.05.05-07.18.58:239][191]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.05.05-07.18.58:239][191]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.05.05-07.18.58:315][191]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.05.05-07.18.58:315][191]MapCheck: New page: MyNewMap - May 4, 2019, 11:18:58 PM
+[2019.05.05-07.18.58:316][191]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.05.05-07.18.58:316][191]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.895ms to complete.
+[2019.05.05-07.18.58:339][191]LogEditorBuildUtils: Build time 0:06
+[2019.05.05-07.18.58:384][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.05.05-07.19.06:247][712]Job is a success!
+[2019.05.05-07.19.06:332][714]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2019.05.05-07.19.06:332][714]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.05.05-07.19.06:332][714]LogVolumetricLightmapImport:      BrickData 100x5x5 = 0.1Mb
+[2019.05.05-07.19.06:332][714]LogVolumetricLightmapImport:      Bricks at Level
+[2019.05.05-07.19.06:332][714]LogVolumetricLightmapImport:          0: 5.0% covering 100.0% of volume
+[2019.05.05-07.19.06:332][714]LogVolumetricLightmapImport:          1: 5.0% covering 1.6% of volume
+[2019.05.05-07.19.06:332][714]LogVolumetricLightmapImport:          2: 90.0% covering 0.4% of volume
+[2019.05.05-07.19.07:350][714]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2019.05.05-07.19.07:351][714]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.05.05-07.19.07:351][714]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.05.05-07.19.07:351][714]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2019.05.05-07.19.07:351][714]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.05.05-07.19.07:351][714]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.05.05-07.19.07:351][714]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 256X128)
+[2019.05.05-07.19.07:351][714]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2019.05.05-07.19.07:351][714]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2019.05.05-07.19.07:522][714]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X1024)
+[2019.05.05-07.19.07:530][714]LogStaticLightingSystem: MyNewMap_BuiltData storing lightmap data for 70 meshes in 5 LightmapResourceClusters (14.0 Meshes per cluster).
+[2019.05.05-07.19.07:553][714]Lightmass on ELS-SCHOOL-1: 8.61 sec total, 153 ms importing, 35 ms setup, 1.09 sec photons, 7.30 sec processing, 0 ms extra exporting [70/70 mappings]. Threads: 50.9 sec total, 34.6 sec processing.
+[2019.05.05-07.19.07:556][714]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.05.05-07.19.07:562][714]LogStaticLightingSystem: Illumination: 13.8 sec (928 ms encoding lightmaps, 166 ms encoding shadowmaps)
+[2019.05.05-07.19.07:562][714]LogStaticLightingSystem: Lightmap texture memory:  5.5 MB (5.5 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.05.05-07.19.07:562][714]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.05.05-07.19.08:247][714]DumpUnbuiltLightIteractions
+[2019.05.05-07.19.08:247][714]Lights with unbuilt interactions: 0
+[2019.05.05-07.19.08:247][714]
+[2019.05.05-07.19.08:247][714]Primitives with unbuilt interactions: 0
+[2019.05.05-07.19.08:299][715]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.05.05-07.19.08:299][715]MapCheck: New page: MyNewMap - May 4, 2019, 11:19:08 PM
+[2019.05.05-07.19.08:300][715]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.888ms to complete.
+[2019.05.05-07.19.13:240][261]LogSlate: Window 'Message Log' being destroyed
+[2019.05.05-07.19.13:242][261]LogSlate: Window 'Message Log' being destroyed
+[2019.05.05-07.19.16:177][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_D4)
+[2019.05.05-07.19.17:286][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x400_EA4)
+[2019.05.05-07.19.18:342][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_D4)
+[2019.05.05-07.19.19:340][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_D3)
+[2019.05.05-07.19.33:362][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door2)
+[2019.05.05-07.19.34:670][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_C3)
+[2019.05.05-07.19.37:582][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.20.04:472][982]Cmd: DUPLICATE
+[2019.05.05-07.20.04:472][982]Cmd: ACTOR DUPLICATE
+[2019.05.05-07.20.15:033][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.23.25:574][540]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.05-07.23.31:908][210]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.05.05-07.23.34:816][472]Cmd: DUPLICATE
+[2019.05.05-07.23.34:816][472]Cmd: ACTOR DUPLICATE
+[2019.05.05-07.23.59:220][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.24.17:208][340]Cmd: DUPLICATE
+[2019.05.05-07.24.17:208][340]Cmd: ACTOR DUPLICATE
+[2019.05.05-07.24.23:413][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.24.34:614][309]Cmd: DUPLICATE
+[2019.05.05-07.24.34:615][309]Cmd: ACTOR DUPLICATE
+[2019.05.05-07.24.38:606][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.24.53:728][451]Cmd: DUPLICATE
+[2019.05.05-07.24.53:728][451]Cmd: ACTOR DUPLICATE
+[2019.05.05-07.24.57:505][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.25.00:857][290]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.05-07.25.09:312][287]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.05-07.25.19:929][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.25.22:353][835]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.05-07.25.39:393][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.25.43:859][273]Cmd: DUPLICATE
+[2019.05.05-07.25.43:859][273]Cmd: ACTOR DUPLICATE
+[2019.05.05-07.25.51:066][  5]Cmd: DELETE
+[2019.05.05-07.25.51:066][  5]Cmd: ACTOR DELETE
+[2019.05.05-07.25.51:068][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.05.05-07.25.51:093][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.05.05-07.25.51:094][  5]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.05.05-07.25.56:444][541]Cmd: DUPLICATE
+[2019.05.05-07.25.56:444][541]Cmd: ACTOR DUPLICATE
+[2019.05.05-07.26.07:248][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.26.14:894][649]Cmd: DUPLICATE
+[2019.05.05-07.26.14:894][649]Cmd: ACTOR DUPLICATE
+[2019.05.05-07.26.22:791][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.26.32:608][656]Cmd: DUPLICATE
+[2019.05.05-07.26.32:608][656]Cmd: ACTOR DUPLICATE
+[2019.05.05-07.26.46:663][312]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.05-07.26.51:318][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.26.58:924][536]Cmd: DUPLICATE
+[2019.05.05-07.26.58:924][536]Cmd: ACTOR DUPLICATE
+[2019.05.05-07.27.14:933][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.27.15:025][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.05-07.27.15:050][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.05.05-07.27.15:216][350]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMapC277BC7A4FFF4BDD6224049F12A2DA32.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap'
+[2019.05.05-07.27.15:248][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap_BuiltData" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset" SILENT=true
+[2019.05.05-07.27.15:493][350]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap_BuiltDataD5D0279E47A8D63A3A9B028EBDE54913.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset'
+[2019.05.05-07.27.23:095][227]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.05.05-07.27.31:186][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-07.27.31:308][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.05-07.27.31:332][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.05.05-07.27.31:490][197]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMapBE492E1548E8D0C9BBA2FB8AA2B1F857.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap'
+[2019.05.05-07.27.31:517][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap_BuiltData" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset" SILENT=true
+[2019.05.05-07.27.31:754][197]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap_BuiltData011DA0E94558F8D284CB2DAB383B122F.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset'
+[2019.05.05-07.29.10:218][781]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2019.05.05-07.29.14:095][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.05-07.29.14:118][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.05.05-07.29.14:275][237]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMapBC4B1BAB41D2DA06D1C9759C13394448.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap'
+[2019.05.05-07.29.14:302][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap_BuiltData" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset" SILENT=true
+[2019.05.05-07.29.14:541][237]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap_BuiltData7A7EB5294FAC2AA3D470B88F2A1F809B.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset'
+[2019.05.05-07.29.45:395][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.05-07.29.45:419][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.05.05-07.29.45:578][896]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap5D66F5DD4E13A360CC67B28A76C970AD.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap'
+[2019.05.05-07.29.45:603][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap_BuiltData" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset" SILENT=true
+[2019.05.05-07.29.45:840][896]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap_BuiltDataE68CF3D2454F2F9A9549C4B027FEF4D1.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset'
+[2019.05.05-07.30.11:012][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.05-07.30.11:036][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.05.05-07.30.11:196][888]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMapCED557804DD631A94A8465A71C01D12B.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap'
+[2019.05.05-07.30.11:221][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap_BuiltData" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset" SILENT=true
+[2019.05.05-07.30.11:456][888]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap_BuiltData1024E3CF4C38A99EDEE897BD2B493E40.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset'
+[2019.05.05-07.30.26:696][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.05-07.30.26:719][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.05.05-07.30.26:877][693]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMapAEB4993649ACAFAB474013BBCA999D7D.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap'
+[2019.05.05-07.30.26:904][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap_BuiltData" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset" SILENT=true
+[2019.05.05-07.30.27:141][693]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap_BuiltDataE6103E6B4274B4729E866E8D203D22AE.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset'
+[2019.05.05-07.31.01:696][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.05-07.31.01:721][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.05.05-07.31.01:879][764]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap40136B3545F76A62C2B2688F55867FB1.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap'
+[2019.05.05-07.31.01:905][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap_BuiltData" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset" SILENT=true
+[2019.05.05-07.31.02:141][764]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap_BuiltDataF9B22C5F436C1998E891AC9B69E68029.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset'
+[2019.05.05-07.31.14:631][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.05-07.31.14:656][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.05.05-07.31.14:814][240]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap264B7CD24791DDD9C0AD328AF9AA30A8.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap'
+[2019.05.05-07.31.14:841][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap_BuiltData" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset" SILENT=true
+[2019.05.05-07.31.15:077][240]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap_BuiltDataAB687B0546B1B14C9634B1ABFC1379DC.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset'
+[2019.05.05-08.02.07:663][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.05-08.02.07:690][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2019.05.05-08.02.07:866][738]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMapE90A3ED047470ACE1027398653DD8590.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap'
+[2019.05.05-08.02.07:895][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap_BuiltData" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset" SILENT=true
+[2019.05.05-08.02.08:150][738]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap_BuiltData5583B8464DBA45D66D3873BAFF3A790E.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset'
+[2019.05.05-08.02.09:523][893]MapCheck: New page: Map Check
+[2019.05.05-08.02.09:544][893]Cmd: MAP REBUILD ALLVISIBLE
+[2019.05.05-08.02.09:544][893]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.05.05-08.02.09:584][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.05.05-08.02.09:614][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-08.02.09:622][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-08.02.09:630][893]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.05-08.02.09:631][893]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.05-08.02.09:631][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-08.02.09:639][893]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.05-08.02.09:639][893]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.05-08.02.09:639][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-08.02.09:649][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-08.02.09:659][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-08.02.09:671][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-08.02.09:681][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-08.02.09:690][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-08.02.09:701][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-08.02.09:711][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-08.02.09:718][893]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-08.02.11:031][893]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.05-08.02.11:031][893]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.05-08.02.11:031][893]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.05-08.02.11:031][893]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.05-08.02.11:031][893]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.05-08.02.11:031][893]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.05-08.02.11:031][893]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.05-08.02.11:031][893]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.05-08.02.11:031][893]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.05-08.02.11:031][893]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.05-08.02.11:031][893]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.05-08.02.11:031][893]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.05-08.02.11:032][893]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.05-08.02.11:032][893]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.05-08.02.11:032][893]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.05-08.02.11:032][893]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.05-08.02.11:032][893]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.05-08.02.11:032][893]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.05-08.02.11:032][893]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.05-08.02.11:032][893]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.05-08.02.11:032][893]TextureStreamingBuild: Display: Compiling optional shaders took 1.421 seconds.
+[2019.05.05-08.02.11:044][893]LogLevel: Display: Export Material TexCoord Scales took 0.012 seconds.
+[2019.05.05-08.02.11:074][893]TextureStreamingBuild: Display: Build Texture Streaming took 0.030 seconds.
+[2019.05.05-08.02.11:101][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2019.05.05-08.02.11:101][893]LightingResults: New page: Lighting Build - May 5, 2019, 12:02:11 AM
+[2019.05.05-08.02.11:107][893]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.05.05-08.02.11:110][893]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.05.05-08.02.11:110][893]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.05.05-08.02.11:111][893]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.05.05-08.02.11:111][893]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16064
+[2019.05.05-08.02.15:620][893]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.05.05-08.02.15:620][893]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.05.05-08.02.15:620][893]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.05.05-08.02.15:620][893]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.05.05-08.02.15:620][893]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.05.05-08.02.15:621][893]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.05.05-08.02.15:722][893]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.05.05-08.02.15:722][893]MapCheck: New page: MyNewMap - May 5, 2019, 12:02:15 AM
+[2019.05.05-08.02.15:723][893]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.069ms to complete.
+[2019.05.05-08.02.15:746][893]LogEditorBuildUtils: Build time 0:06
+[2019.05.05-08.02.15:783][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.05.05-08.02.25:398][589]Job is a success!
+[2019.05.05-08.02.25:501][591]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2019.05.05-08.02.25:501][591]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.05.05-08.02.25:501][591]LogVolumetricLightmapImport:      BrickData 100x5x5 = 0.1Mb
+[2019.05.05-08.02.25:501][591]LogVolumetricLightmapImport:      Bricks at Level
+[2019.05.05-08.02.25:501][591]LogVolumetricLightmapImport:          0: 5.0% covering 100.0% of volume
+[2019.05.05-08.02.25:501][591]LogVolumetricLightmapImport:          1: 5.0% covering 1.6% of volume
+[2019.05.05-08.02.25:502][591]LogVolumetricLightmapImport:          2: 90.0% covering 0.4% of volume
+[2019.05.05-08.02.26:548][591]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.05.05-08.02.26:548][591]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.05.05-08.02.26:548][591]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.05.05-08.02.26:548][591]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2019.05.05-08.02.26:548][591]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2019.05.05-08.02.26:549][591]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2019.05.05-08.02.26:549][591]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 256X128)
+[2019.05.05-08.02.26:549][591]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2019.05.05-08.02.26:549][591]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2019.05.05-08.02.26:746][591]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X1024)
+[2019.05.05-08.02.26:755][591]LogStaticLightingSystem: MyNewMap_BuiltData storing lightmap data for 70 meshes in 5 LightmapResourceClusters (14.0 Meshes per cluster).
+[2019.05.05-08.02.26:776][591]Lightmass on ELS-SCHOOL-1: 10.3 sec total, 177 ms importing, 34 ms setup, 1.27 sec photons, 8.86 sec processing, 0 ms extra exporting [70/70 mappings]. Threads: 1:01 min total, 43.1 sec processing.
+[2019.05.05-08.02.26:780][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.05.05-08.02.26:785][591]LogStaticLightingSystem: Illumination: 15.6 sec (950 ms encoding lightmaps, 192 ms encoding shadowmaps)
+[2019.05.05-08.02.26:785][591]LogStaticLightingSystem: Lightmap texture memory:  5.5 MB (5.5 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.05.05-08.02.26:785][591]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.05.05-08.02.27:639][591]DumpUnbuiltLightIteractions
+[2019.05.05-08.02.27:639][591]Lights with unbuilt interactions: 0
+[2019.05.05-08.02.27:639][591]
+[2019.05.05-08.02.27:639][591]Primitives with unbuilt interactions: 0
+[2019.05.05-08.02.27:700][592]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.05.05-08.02.27:700][592]MapCheck: New page: MyNewMap - May 5, 2019, 12:02:27 AM
+[2019.05.05-08.02.27:701][592]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.928ms to complete.
+[2019.05.05-08.03.05:223][315]MapCheck: New page: Map Check
+[2019.05.05-08.03.05:245][315]Cmd: MAP REBUILD ALLVISIBLE
+[2019.05.05-08.03.05:245][315]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.05.05-08.03.05:289][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.05.05-08.03.05:319][315]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-08.03.05:327][315]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.05-08.03.05:327][315]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.05-08.03.05:327][315]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-08.03.05:335][315]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-08.03.05:343][315]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.05-08.03.05:344][315]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.05-08.03.05:344][315]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-08.03.05:353][315]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-08.03.05:363][315]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-08.03.05:373][315]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-08.03.05:383][315]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-08.03.05:394][315]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-08.03.05:404][315]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-08.03.05:411][315]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-08.03.05:419][315]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.05-08.03.06:699][315]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.05-08.03.06:699][315]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.05.05-08.03.06:699][315]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.05.05-08.03.06:699][315]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.05.05-08.03.06:700][315]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.05.05-08.03.06:700][315]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.05.05-08.03.06:700][315]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.05.05-08.03.06:700][315]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.05.05-08.03.06:700][315]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.05.05-08.03.06:700][315]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.05.05-08.03.06:700][315]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.05-08.03.06:700][315]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.05-08.03.06:700][315]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.05-08.03.06:700][315]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.05-08.03.06:700][315]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.05-08.03.06:700][315]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.05-08.03.06:700][315]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.05-08.03.06:700][315]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.05-08.03.06:700][315]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.05-08.03.06:701][315]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.05-08.03.06:701][315]TextureStreamingBuild: Display: Compiling optional shaders took 1.385 seconds.
+[2019.05.05-08.03.06:713][315]LogLevel: Display: Export Material TexCoord Scales took 0.011 seconds.
+[2019.05.05-08.03.06:743][315]TextureStreamingBuild: Display: Build Texture Streaming took 0.030 seconds.
+[2019.05.05-08.03.06:767][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.05.05-08.03.06:767][315]LightingResults: New page: Lighting Build - May 5, 2019, 12:03:06 AM
+[2019.05.05-08.03.06:774][315]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.05.05-08.03.06:776][315]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.05.05-08.03.06:776][315]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.05.05-08.03.06:777][315]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.05.05-08.03.06:777][315]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16064
+[2019.05.05-08.03.11:285][315]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.05.05-08.03.11:285][315]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.05.05-08.03.11:285][315]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.05.05-08.03.11:285][315]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.05.05-08.03.11:285][315]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.05.05-08.03.11:286][315]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.05.05-08.03.11:362][315]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.05.05-08.03.11:363][315]MapCheck: New page: MyNewMap - May 5, 2019, 12:03:11 AM
+[2019.05.05-08.03.11:363][315]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.844ms to complete.
+[2019.05.05-08.03.11:387][315]LogEditorBuildUtils: Build time 0:06
+[2019.05.05-08.03.11:425][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.05.05-08.03.32:515][891]Job is a success!
+[2019.05.05-08.03.32:619][893]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.005s
+[2019.05.05-08.03.32:619][893]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.05.05-08.03.32:619][893]LogVolumetricLightmapImport:      BrickData 100x5x5 = 0.1Mb
+[2019.05.05-08.03.32:619][893]LogVolumetricLightmapImport:      Bricks at Level
+[2019.05.05-08.03.32:619][893]LogVolumetricLightmapImport:          0: 5.0% covering 100.0% of volume
+[2019.05.05-08.03.32:619][893]LogVolumetricLightmapImport:          1: 5.0% covering 1.6% of volume
+[2019.05.05-08.03.32:619][893]LogVolumetricLightmapImport:          2: 90.0% covering 0.4% of volume
+[2019.05.05-08.03.33:654][893]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2019.05.05-08.03.33:655][893]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.05.05-08.03.33:655][893]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.05.05-08.03.33:655][893]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2019.05.05-08.03.33:655][893]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.05.05-08.03.33:655][893]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.05.05-08.03.33:656][893]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 256X128)
+[2019.05.05-08.03.33:656][893]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2019.05.05-08.03.33:656][893]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2019.05.05-08.03.33:849][893]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 1024X1024)
+[2019.05.05-08.03.33:860][893]LogStaticLightingSystem: MyNewMap_BuiltData storing lightmap data for 70 meshes in 5 LightmapResourceClusters (14.0 Meshes per cluster).
+[2019.05.05-08.03.33:883][893]Lightmass on ELS-SCHOOL-1: 21.8 sec total, 156 ms importing, 35 ms setup, 1.62 sec photons, 20.0 sec processing, 0 ms extra exporting [70/70 mappings]. Threads: 2:20 min total, 1:47 min processing.
+[2019.05.05-08.03.33:886][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.05.05-08.03.33:890][893]LogStaticLightingSystem: Illumination: 27.1 sec (940 ms encoding lightmaps, 186 ms encoding shadowmaps)
+[2019.05.05-08.03.33:891][893]LogStaticLightingSystem: Lightmap texture memory:  5.5 MB (5.5 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.05.05-08.03.33:891][893]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.05.05-08.03.34:305][893]DumpUnbuiltLightIteractions
+[2019.05.05-08.03.34:305][893]Lights with unbuilt interactions: 0
+[2019.05.05-08.03.34:305][893]
+[2019.05.05-08.03.34:305][893]Primitives with unbuilt interactions: 0
+[2019.05.05-08.03.34:352][894]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.05.05-08.03.34:352][894]MapCheck: New page: MyNewMap - May 5, 2019, 12:03:34 AM
+[2019.05.05-08.03.34:353][894]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.85ms to complete.
+[2019.05.05-08.03.37:939][289]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.05-08.03.37:952][289]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyNewMap.MyNewMap:PersistentLevel' has LevelScriptBlueprint '/Game/MyNewMap.MyNewMap:PersistentLevel.MyNewMap' with GeneratedClass '/Game/MyNewMap.MyNewMap_C' with ClassGeneratedBy '/Game/MyNewMap.MyNewMap:PersistentLevel.MyNewMap'
+[2019.05.05-08.03.37:952][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.05-08.03.37:952][289]PIE: New page: PIE session: MyNewMap (May 5, 2019, 12:03:37 AM)
+[2019.05.05-08.03.37:952][289]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyNewMap
+[2019.05.05-08.03.37:962][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009166s)
+[2019.05.05-08.03.37:962][289]LogAIModule: Creating AISystem for world MyNewMap
+[2019.05.05-08.03.37:963][289]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2019.05.05-08.03.37:963][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyNewMap.MyNewMap to /Game/UEDPIE_0_MyNewMap.MyNewMap (0.010301s)
+[2019.05.05-08.03.37:983][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.05.05-08.03.37:986][289]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.05-08.03.37:995][289]LogInit: FAudioDevice initialized.
+[2019.05.05-08.03.38:024][289]LogLoad: Game class is 'BuildingEscapeGameModeBase'
+[2019.05.05-08.03.38:027][289]LogWorld: Bringing World /Game/UEDPIE_0_MyNewMap.MyNewMap up for play (max tick rate 0) at 2019.05.05-04.03.38
+[2019.05.05-08.03.38:042][289]LogWorld: Bringing up level for play took: 0.017076
+[2019.05.05-08.03.38:055][289]LogTemp: Warning:  SM_Chair_71 is at X=780.000 Y=-530.000 Z=-130.000
+[2019.05.05-08.03.38:055][289]LogTemp: Warning:  SM_TableRound_2 is at X=530.000 Y=-220.000 Z=-130.000
+[2019.05.05-08.03.38:055][289]LogTemp: Warning:  SM_Statue_5 is at X=1463.976 Y=126.677 Z=-124.707
+[2019.05.05-08.03.38:055][289]LogTemp: Warning:  SM_Rock_8 is at X=1780.000 Y=440.000 Z=-115.000
+[2019.05.05-08.03.38:055][289]LogTemp: Warning:  SM_Couch_11 is at X=1830.000 Y=10.000 Z=-130.000
+[2019.05.05-08.03.38:056][289]LogTemp: Warning:  SM_Bush_14 is at X=1770.000 Y=-380.000 Z=-130.000
+[2019.05.05-08.03.38:056][289]LogTemp: Warning:  SM_Chair2_17 is at X=1190.000 Y=-540.000 Z=-130.000
+[2019.05.05-08.03.38:056][289]LogTemp: Warning:  SM_TableRound2 is at X=415.000 Y=480.000 Z=-130.000
+[2019.05.05-08.03.38:056][289]PIE: Play in editor start time for /Game/UEDPIE_0_MyNewMap -0.55
+[2019.05.05-08.03.38:056][289]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyNewMap.MyNewMap:PersistentLevel' has LevelScriptBlueprint '/Game/MyNewMap.MyNewMap:PersistentLevel.MyNewMap' with GeneratedClass '/Game/MyNewMap.MyNewMap_C' with ClassGeneratedBy '/Game/MyNewMap.MyNewMap:PersistentLevel.MyNewMap'
+[2019.05.05-08.04.12:940][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-08.04.13:040][448]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyNewMap.MyNewMap:PersistentLevel' has LevelScriptBlueprint '/Game/MyNewMap.MyNewMap:PersistentLevel.MyNewMap' with GeneratedClass '/Game/MyNewMap.MyNewMap_C' with ClassGeneratedBy '/Game/MyNewMap.MyNewMap:PersistentLevel.MyNewMap'
+[2019.05.05-08.04.13:041][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-08.04.13:072][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.05-08.04.13:072][448]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyNewMap.MyNewMap:PersistentLevel' has LevelScriptBlueprint '/Game/MyNewMap.MyNewMap:PersistentLevel.MyNewMap' with GeneratedClass '/Game/MyNewMap.MyNewMap_C' with ClassGeneratedBy '/Game/MyNewMap.MyNewMap:PersistentLevel.MyNewMap'
+[2019.05.05-08.04.13:097][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.05-08.04.13:101][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.05.05-08.04.13:141][453]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.05.05-08.04.58:401][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400_A2)
+[2019.05.05-08.05.05:099][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-08.06.09:980][990]LogActorFactory: Actor Factory created SM_GlassWindow
+[2019.05.05-08.06.11:485][166]LogActorFactory: Actor Factory created SM_GlassWindow
+[2019.05.05-08.06.15:650][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-08.06.28:536][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-08.06.43:421][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-08.07.04:917][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-08.07.14:499][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-08.07.45:794][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-08.07.57:759][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-08.08.01:247][ 10]LogEditorViewport: Clicking Background
+[2019.05.05-08.08.11:336][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.05-08.09.29:641][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.05-08.09.29:667][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.05.05-08.09.29:839][810]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap5497C2D944CF50846F08DBB0D15416E5.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap'
+[2019.05.05-08.09.29:873][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap_BuiltData" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset" SILENT=true
+[2019.05.05-08.09.30:123][810]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap_BuiltDataFEEA04914FCE5D51A39B319209D41892.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset'
+[2019.05.05-08.10.27:259][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.05-08.10.27:285][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.05.05-08.10.27:452][915]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap6DF490174C4654781D73B9AF3AEBD9C8.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap.umap'
+[2019.05.05-08.10.27:483][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyNewMap_BuiltData" FILE="../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset" SILENT=true
+[2019.05.05-08.10.27:731][915]LogSavePackage: Moving '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Saved/MyNewMap_BuiltData19D3F3744A56E5FC0398ACB0C0D2E3EA.tmp' to '../../../../../../Users/els/source/repos/01_BuildingEscape/BuildingEscape/Content/MyNewMap_BuiltData.uasset'
