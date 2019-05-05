@@ -37,5 +37,10 @@ private:
 	ATriggerVolume* PressurePlate;
 
 	UPROPERTY(EditAnywhere)
+	float DoorCloseDelay = 1.0f;
+
+	// Not macros, and not editible in the EU4Editor
+	float LastDoorOpenTime = 0.0f;
 	AActor* ActorThatOpensTheDoor; // remember pawn inherits from actor
+	AActor* Owner;
 };
