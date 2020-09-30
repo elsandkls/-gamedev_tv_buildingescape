@@ -24,8 +24,7 @@ void UPositionReport::BeginPlay()
 	FString ObjectName = GetOwner()->GetName();
 	FString ObjectPosition = GetOwner()->GetTransform().GetLocation().ToString();
 	UE_LOG(LogTemp, Warning, TEXT(" %s is at %s"), *ObjectName, *ObjectPosition);
-	// ... runs once at begining of the game
-	
+	// ... runs once at begining of the game 
 }
 
 
